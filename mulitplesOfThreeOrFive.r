@@ -10,7 +10,7 @@ mulFinder <- function(x) {
         } #Checks to find k mod 3
         k <- k + 1
     }
-    sum #Returns sum
+    sum
 }
 
 mulFinder(1000)
